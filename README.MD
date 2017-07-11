@@ -8,5 +8,6 @@ languages simultaneously.
 
 1. [SublimeTextIssues#1069](https://github.com/SublimeTextIssues/Core/issues/1069) Multiple dictionaries per file
 
-
+## License
+See the `EN_PT.txt` file under this repository.
 
